@@ -1,0 +1,4 @@
+1- add comments.
+2- reduce redundancy as much as possible.
+3- maybe apply OOP?.
+4- make a readme file.
