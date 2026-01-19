@@ -21,7 +21,7 @@ A simple command-line interface (CLI) application to track your tasks and manage
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/seddek-nadhem/task-tracker-cli.git](https://github.com/seddek-nadhem/task-tracker-cli.git)
+   git clone https://github.com/seddek-nadhem/task-tracker-cli.git
    ```
 
 2- Navigate to the project directory:
@@ -56,12 +56,11 @@ task-cli delete 1
 task-cli mark-in-progress 1
 task-cli mark-done 1
 ```
-📂 Project Structure
-index.php: The main entry point containing all application logic.
+## 📂 Project Structure
 
-tasks.json: The database file (auto-generated if missing).
-
-task-cli.bat: A batch script to simplify running commands on Windows.
+- `index.php`: The main entry point containing all application logic.
+- `tasks.json`: The database file (auto-generated if missing).
+- `task-cli.bat`: A batch script to simplify running commands on Windows.
 
 📝 Learning Outcomes
 Handling CLI arguments in PHP ($argv, $argc).
