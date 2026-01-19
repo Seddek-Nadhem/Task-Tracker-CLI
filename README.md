@@ -62,14 +62,12 @@ task-cli mark-done 1
 - `tasks.json`: The database file (auto-generated if missing).
 - `task-cli.bat`: A batch script to simplify running commands on Windows.
 
-📝 Learning Outcomes
-Handling CLI arguments in PHP ($argv, $argc).
+## 📝 Learning Outcomes
 
-File I/O operations (Reading/Writing JSON).
-
-CRUD operations (Create, Read, Update, Delete).
-
-Data validation and error handling.
+- Handling CLI arguments in PHP (`$argv`, `$argc`).
+- File I/O operations (Reading/Writing JSON).
+- CRUD operations (Create, Read, Update, Delete).
+- Data validation and error handling.
 
 
 
