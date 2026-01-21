@@ -19,18 +19,18 @@ A simple command-line interface (CLI) application to track your tasks and manage
 
 ## 📥 Installation
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/seddek-nadhem/task-tracker-cli.git
-   ```
+```
 
 2- Navigate to the project directory:
-   ```bash
+```bash
    cd task-tracker-cli
-   ```
+```
 
 ## 💻 Usage
 1. Add a Task
-  ```bash
+```bash
 task-cli add "Buy groceries"
 # Output: Task added successfully (ID: 1)
 ```
