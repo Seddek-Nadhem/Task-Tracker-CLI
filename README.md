@@ -18,7 +18,6 @@ A simple command-line interface (CLI) application to track your tasks and manage
 - A terminal (Command Prompt, PowerShell, or Git Bash).
 
 ## 📥 Installation
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/seddek-nadhem/task-tracker-cli.git
