@@ -146,11 +146,11 @@ switch ($command) {
             echo "Error: Please provide an ID to delete.\n";
             exit(1);
         }
-        // Get the tasks
+        
         $tasks = readTasks($tasksFile);
-        // The real count to compare later
+        
         $initialCount = count($tasks);
-        // New tasks array to save in the file. 
+        
         $tasks = array_filter($tasks, function($task) use ($idToDelete) {
             return $task['id'] != $idToDelete;
         });
