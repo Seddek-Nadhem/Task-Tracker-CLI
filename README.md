@@ -68,7 +68,9 @@ task-cli mark-done 1
 - CRUD operations (Create, Read, Update, Delete).
 - Data validation and error handling.
 
+## Inspiration
 
+https://roadmap.sh/projects/task-tracker
 
 
 
