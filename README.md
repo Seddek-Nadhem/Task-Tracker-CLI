@@ -55,9 +55,6 @@ task-cli delete 1
 task-cli mark-in-progress 1
 task-cli mark-done 1
 ```
-## Inspiration
-
-https://roadmap.sh/projects/task-tracker
 
 ## 📂 Project Structure
 
@@ -72,7 +69,10 @@ https://roadmap.sh/projects/task-tracker
 - CRUD operations (Create, Read, Update, Delete).
 - Data validation and error handling.
 
+## Inspiration
 
+- Project was done on instructions from the backend projects beginner page on roadmap.sh
+https://roadmap.sh/projects/task-tracker
 
 
 
