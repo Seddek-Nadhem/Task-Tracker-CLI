@@ -1,6 +1,6 @@
 # PHP Task Tracker CLI
 
-A simple command-line interface (CLI) application to track your tasks and manage your to-do list. Built with **pure PHP** (no frameworks) using a JSON file for data persistence.
+A simple command-line interface (CLI) application to track your tasks and manage your to-do list. Built with **Object-Oriented PHP** (no frameworks) using a JSON file for data persistence.
 
 ## 🚀 Features
 
@@ -59,6 +59,7 @@ task-cli mark-done 1
 ## 📂 Project Structure
 
 - `index.php`: The main entry point containing all application logic.
+- `TaskManager.php`: The class containing all business logic and data management.
 - `tasks.json`: The database file (auto-generated if missing).
 - `task-cli.bat`: A batch script to simplify running commands on Windows.
 
